@@ -1,2 +1,0 @@
-C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Лабораторная работа№1\laba1\Debug\laba1.exe
-C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\Лабораторная работа№1\laba1\Debug\laba1.pdb
